@@ -12,3 +12,8 @@ The PINN network is currently a work in progress and has only been applied to a 
 
 ##Where can the community can get assitance?
 sven.frei@wur.nl
+***
+# Data
+The PINN_heat uses a synthetic dataset of observed temperatures for 7 different depths for the inverse solution of the advective flow velocities:  
+![data](https://github.com/saluisto/PINN_HEAT/assets/151910262/d92e90fa-21cd-42da-9a36-ddd7b456c22b)
+The code for generating the data is publicly avaiable under https://doi.org/10.5066/P99DBTKT
